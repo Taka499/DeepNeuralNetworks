@@ -1,0 +1,81 @@
+Train Epoch 0/40: loss=1.9351208816777479 | perplexity=8.282579263051352 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 0/40: lev_dist=530.1235119047619
+Train Epoch 1/40: loss=1.4933466546170346 | perplexity=4.457397987176706 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 1/40: lev_dist=532.1655505952381
+Train Epoch 2/40: loss=1.3796581470214568 | perplexity=3.974652327932753 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 2/40: lev_dist=533.7202380952381
+Train Epoch 3/40: loss=1.319116561799436 | perplexity=3.740664136302364 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 3/40: lev_dist=532.4512648809524
+Train Epoch 4/40: loss=1.2732726818806417 | perplexity=3.573054510193902 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 4/40: lev_dist=533.3005952380952
+Train Epoch 5/40: loss=1.1592215114348643 | perplexity=3.197485335238345 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 5/40: lev_dist=284.4951636904762
+Train Epoch 6/40: loss=0.5515145197644964 | perplexity=1.7549132500682865 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 6/40: lev_dist=100.48251488095238
+Train Epoch 7/40: loss=0.3268756847660821 | perplexity=1.3870564956922788 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 7/40: lev_dist=56.46763392857143
+Train Epoch 8/40: loss=0.3558920527229438 | perplexity=1.4454221816750261 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 8/40: lev_dist=59.083333333333336
+Train Epoch 9/40: loss=0.23847994040530007 | perplexity=1.2694117550377373 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 9/40: lev_dist=53.732142857142854
+Train Epoch 10/40: loss=0.21115864524701694 | perplexity=1.235192914266844 | lr=0.001 | tf_rate=1.0
+ - Val Epoch 10/40: lev_dist=36.953125
+Train Epoch 11/40: loss=0.7535028081756454 | perplexity=2.3946374810493745 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 11/40: lev_dist=99.81956845238095
+Train Epoch 12/40: loss=0.41505475436245 | perplexity=1.5168040926392015 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 12/40: lev_dist=55.669642857142854
+Train Epoch 13/40: loss=0.3404965121466834 | perplexity=1.40619378261738 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 13/40: lev_dist=46.299107142857146
+Train Epoch 14/40: loss=0.3180398084558882 | perplexity=1.3749088918840564 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 14/40: lev_dist=41.44828869047619
+Train Epoch 15/40: loss=0.2946421840303653 | perplexity=1.3430492808152963 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 15/40: lev_dist=39.068080357142854
+Train Epoch 16/40: loss=0.2779128348773664 | perplexity=1.3206515210168857 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 16/40: lev_dist=34.268973214285715
+Train Epoch 17/40: loss=0.28518978070031414 | perplexity=1.3309073448181152 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 17/40: lev_dist=33.62574404761905
+Train Epoch 18/40: loss=0.24980384755778956 | perplexity=1.2839957260870718 | lr=0.001 | tf_rate=0.9
+ - Val Epoch 18/40: lev_dist=27.727678571428573
+Train Epoch 19/40: loss=0.32604513082418357 | perplexity=1.3875458154592428 | lr=0.001 | tf_rate=0.85
+ - Val Epoch 19/40: lev_dist=36.561011904761905
+Train Epoch 20/40: loss=2.013207158929593 | perplexity=8.944536829853917 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 20/40: lev_dist=531.1331845238095
+Train Epoch 21/40: loss=1.8957193015931963 | perplexity=6.675487019994238 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 21/40: lev_dist=449.1331845238095
+Train Epoch 22/40: loss=1.307218436185304 | perplexity=3.933336580121839 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 22/40: lev_dist=111.68154761904762
+Train Epoch 23/40: loss=0.7106727058286065 | perplexity=2.0415219535698763 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 23/40: lev_dist=83.82589285714286
+Train Epoch 24/40: loss=1.4603690429850742 | perplexity=6.025248193526053 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 24/40: lev_dist=248.43415178571428
+Train Epoch 25/40: loss=0.8885945108559754 | perplexity=2.4713088129017806 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 25/40: lev_dist=80.83035714285714
+Train Epoch 26/40: loss=0.7431988069066057 | perplexity=2.2226772984942875 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 26/40: lev_dist=84.08705357142857
+Train Epoch 27/40: loss=0.6806689790777258 | perplexity=1.9964955701484337 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 27/40: lev_dist=56.213541666666664
+Train Epoch 28/40: loss=0.6759436483587231 | perplexity=1.9927833236015595 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 28/40: lev_dist=52.052083333333336
+Train Epoch 29/40: loss=0.5352444597729692 | perplexity=1.7100915656433449 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 29/40: lev_dist=52.07403273809524
+Train Epoch 30/40: loss=0.4513788040693816 | perplexity=1.5716841290662955 | lr=0.001 | tf_rate=0.7999999999999999
+ - Val Epoch 30/40: lev_dist=39.93266369047619
+Train Epoch 31/40: loss=0.5124874030416077 | perplexity=1.6746055086453755 | lr=0.00075 | tf_rate=0.7499999999999999
+ - Val Epoch 31/40: lev_dist=39.57700892857143
+Train Epoch 32/40: loss=0.9801325146947895 | perplexity=5.0136551405932455 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 32/40: lev_dist=475.97284226190476
+Train Epoch 33/40: loss=1.9148879147864677 | perplexity=7.219447855476861 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 33/40: lev_dist=147.18489583333334
+Train Epoch 34/40: loss=0.9525893172165295 | perplexity=2.634015529005377 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 34/40: lev_dist=62.09486607142857
+Train Epoch 35/40: loss=0.6784536706971692 | perplexity=1.9743537994118425 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 35/40: lev_dist=49.023065476190474
+Train Epoch 36/40: loss=0.6403056168341422 | perplexity=1.9004639467677555 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 36/40: lev_dist=41.54799107142857
+Train Epoch 37/40: loss=0.5444682786862055 | perplexity=1.725790882432783 | lr=0.00075 | tf_rate=0.7
+ - Val Epoch 37/40: lev_dist=36.62574404761905
+Train Epoch 38/40: loss=0.5017761347798614 | perplexity=1.653135381303392 | lr=0.0005625000000000001 | tf_rate=0.7
+ - Val Epoch 38/40: lev_dist=35.589285714285715
+Train Epoch 39/40: loss=0.4912487292611921 | perplexity=1.6370939198914949 | lr=0.0005625000000000001 | tf_rate=0.7
+ - Val Epoch 39/40: lev_dist=42.071800595238095
+The best epoch is: 18

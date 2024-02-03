@@ -1,0 +1,37 @@
+{"encoder_hidden_dim": 256, "decoder_hidden_dim": 512, "embed_dim": 512, "key_value_size": 256, "teacher_forcing_rate": 1.0, "tf_reduce_by": 0.05, "learning_rate_patience": 10, "lev_dist_patience": 30, "gumbel": true, "encoder_dropout": null, "decoder_dropout": null}
+Seq2Seq(
+  (encoder): Encoder(
+    (lstm): LSTM(13, 256, batch_first=True, bidirectional=True)
+    (pBLSTMs): Sequential(
+      (0): pBLSTM(
+        (blstm): LSTM(1024, 256, batch_first=True, bidirectional=True)
+      )
+      (1): pBLSTM(
+        (blstm): LSTM(1024, 256, batch_first=True, bidirectional=True)
+      )
+      (2): pBLSTM(
+        (blstm): LSTM(1024, 256, batch_first=True, bidirectional=True)
+      )
+    )
+    (key_network): Linear(in_features=512, out_features=256, bias=True)
+    (value_network): Linear(in_features=512, out_features=256, bias=True)
+  )
+  (decoder): Decoder(
+    (embedding): Embedding(30, 512, padding_idx=29)
+    (lstm1): LSTMCell(768, 512)
+    (lstm2): LSTMCell(512, 256)
+    (attention): Attention()
+    (character_prob): Linear(in_features=512, out_features=30, bias=True)
+  )
+)
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.002
+    maximize: False
+    weight_decay: 0
+)
+CrossEntropyLoss()
+<torch.optim.lr_scheduler.ReduceLROnPlateau object at 0x7fb9642b4ed0>
